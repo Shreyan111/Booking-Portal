@@ -13,6 +13,14 @@ accommodation services. The portal seamlessly connects millions of travelers to 
 - Figma
 - React Bootstrap
 
+## Getting started
+* Open the <a href="https://friendly-chimera-7e077b.netlify.app/"> website</a>  or clone this repository
+* Sign up on the website
+* You're good to go! Now you can search for any hotels in any place for any number of people or rooms!
+* After you clone the repository, try doing npm install in the terminal and you are good to go.
+* Backend repository - https://github.com/Shreyan111/Booking-Portal-Backend
+* Admin Panel - https://github.com/Shreyan111/Booking-Portal-Admin
+
 
 ## 💪🏻 Features
 - Interactive UI
